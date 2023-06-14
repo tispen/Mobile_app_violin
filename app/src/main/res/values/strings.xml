@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="list">Список полезных приложений</string>
+    <string name="about">О том, как выбрать композицию</string>
+    <string name="idead">Идеи для скрипки</string>
+    <string name="bloknot">Блокнот идей</string>
+    <string name="apps2">Приложения для идей</string>
+    <string name="back">Назад</string>
+    <string name="ideas_poisk">Как найти идею?</string>
+    <string name="problems">Часто поиск нот может продолжаться очень долго. Приложения, которые я представила здесь помогут вам не только изучить известную композицию, но и легко придумать нечто свое. </string>
+</resources>
